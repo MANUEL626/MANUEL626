@@ -105,9 +105,9 @@ Système de gestion des adhérents, abonnements et activités.
 
 ## 📈 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MANUEL626\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MANUEL626\&layout=compact)
 
 ---
 
