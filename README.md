@@ -117,7 +117,7 @@ Système de gestion des adhérents, abonnements et activités.
 
 📱 Téléphone : +228 70 87 34 97
 
-🌐 Portfolio : https://portfolio-betarose-rxsl3patzu.vercel.app/
+🌐 Portfolio : [https://portfolio-betarose-rxsl3patzu.vercel.app/](https://portfolio-beta-rose-rxsl3patzu.vercel.app/)
 
 💼 LinkedIn : https://www.linkedin.com/in/t%C3%AAvi-emmanuel-lawson-akplaka-12bb33259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BREi%2Fw98OTFGU49ioa4MjUA%3D%3D
 
