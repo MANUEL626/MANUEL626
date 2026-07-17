@@ -1,4 +1,4 @@
-<h1 align="center">👋 Salut, je suis Emmanuel Lawson-Akplaka</h1>
+<h1 align="center">👋 Salut, je suis Emmanuel LAWSON-AKPLAKA</h1>
 
 <h3 align="center">
 Développeur Full Stack • Expert Automatisation • Créateur de Solutions Digitales
